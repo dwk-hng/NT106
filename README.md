@@ -1,6 +1,7 @@
-<center>
+<div align="center">
     <h1>💻CVisual💻</h1>
-</center>
+</div>
+
 
 Cvisual là hệ thống kết nối ứng viên với nhà tuyển dụng
 
