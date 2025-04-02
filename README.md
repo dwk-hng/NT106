@@ -1,4 +1,9 @@
-# 📚 Hệ thống kết nối ứng viên với nhà tuyển dụng
+<div align="center">
+    <h1>💻CVisual💻</h1>
+</div>
+
+
+Cvisual là hệ thống kết nối ứng viên với nhà tuyển dụng
 
 # 📷 Danh sách thành viên
 | MSSV | Họ và tên | Vai trò |
