@@ -1,4 +1,7 @@
-# 💻CVisual💻
+<center>
+    <h1>💻CVisual💻</h1>
+</center>
+
 Cvisual là hệ thống kết nối ứng viên với nhà tuyển dụng
 
 # 📷 Danh sách thành viên
