@@ -1,5 +1,4 @@
-# 📚 Hệ thống kết nối ứng viên với nhà tuyển dụng
-# 💻CVisual💻
+# 📚 Hệ thống kết nối ứng viên với nhà tuyển dụng 💻CVisual💻
 
 # 📷 Danh sách thành viên
 | MSSV | Họ và tên | Vai trò |
