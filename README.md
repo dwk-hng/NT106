@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>💻CVisual💻</h1>
+    <h1>💻Jobsy💻</h1>
 </div>
 
 
-Cvisual là hệ thống kết nối ứng viên với nhà tuyển dụng
+Jobsy là hệ thống kết nối ứng viên với nhà tuyển dụng
 
 # 📷 Danh sách thành viên
 | MSSV | Họ và tên | Vai trò |
